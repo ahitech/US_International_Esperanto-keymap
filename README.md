@@ -3,7 +3,7 @@ Keymap for Haiku OS that supports special Esperanto characters via "dead-keys"
 
 ## Description
 
-Esperanto is the most successive planned international language in the world.
+Esperanto is the most successful planned international language in the world.
 [Haiku operating system](https://www.haiku-os.org) already supports Esperanto
 as an input method. However, since English is much more useful, switching
 between Esperanto and US International keymaps for the few special Esperanto
@@ -47,7 +47,7 @@ only Esperanto ones.
 |  Ŝ or ŝ | `Option`+`Shift`+`^`, then `S` or `s` |
 |  Ŭ or ŭ | `Option`+`Shift`+`^`, then `U` or `u` |
 
-**Note**: by default, `Option` key is `Windows` key.
+**Note**: by default, `Option` key is `Windows` key. Instead of `Option`, you can use `AltGr` key, which is right `Alt`.
 
 ## Modifying
 
