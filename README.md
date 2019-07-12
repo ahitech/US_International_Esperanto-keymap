@@ -14,7 +14,7 @@ Therefore here is the unified English-Esperanto keymap.
 ## Installation
 
 1. Install Keymap Switcher:
-   - [For x86_84](https://depot.haiku-os.org/#!/pkg/keymapswitcher/haikuports/1/2/7.11/-/8/x86_64)
+   - [For x86_64](https://depot.haiku-os.org/#!/pkg/keymapswitcher/haikuports/1/2/7.11/-/8/x86_64)
    - [For x86 32-bits](https://depot.haiku-os.org/#!/pkg/keymapswitcher/haikuports/1/2/7.11/-/8/x86_gcc2)
    
    Note: these links are leading to a specific version. You may want to check [Haiku Depot](https://depot.haiku-os.org)
