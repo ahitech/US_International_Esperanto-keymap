@@ -54,7 +54,7 @@ only Esperanto ones.
 1. Open `Terminal`.
 2. Issue the following command: `keymap -o ~/US_International_Esperanto_Modified -d ~/config/settings/Keymap/US_International_Esperanto`
 3. Edit the file `~/US_International_Esperanto_Modified` with the text editor of your choise.
-4. Save the changes :WINK:
+4. Save the changes :wink:
 5. Issue the following command: keymap -c ~/US_International_Esperanto_Modified -o ~/config/settings/Keymap/US_International_Esperanto_Modified`
 6. Select the new `US_International_Esperanto_Modified` keymap in the Keymap Switcher, as described above.
 
